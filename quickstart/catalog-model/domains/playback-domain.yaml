@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: playbackx
+  description: XEverything related to audio playbackx
+spec:
+  owner: user:frank.tiernan
